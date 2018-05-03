@@ -12,8 +12,8 @@ apt install git build-essential gcc g++ make
 ## downloads
 ### [nginx](https://nginx.org/)
 ```
-wget https://nginx.org/download/nginx-1.13.8.tar.gz
-tar -xf nginx-1.13.8.tar.gz
+wget https://nginx.org/download/nginx-1.13.12.tar.gz
+tar -xf nginx-1.13.12.tar.gz
 ``` 
 ### [OpenSSL](https://www.openssl.org/)
 ```
@@ -21,8 +21,8 @@ git clone --single-branch https://github.com/openssl/openssl.git
 ```
 ### [PCRE](https://www.pcre.org/)
 ```
-wget https://ftp.pcre.org/pub/pcre/pcre-8.41.tar.gz
-tar -xf pcre-8.41.tar.gz
+wget https://ftp.pcre.org/pub/pcre/pcre-8.42.tar.gz
+tar -xf pcre-8.42.tar.gz
 ```
 ### [zlib](https://www.zlib.net/)
 ```

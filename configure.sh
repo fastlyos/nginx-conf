@@ -40,6 +40,6 @@
  --with-stream_ssl_preread_module \
  --with-openssl=../openssl \
  --with-openssl-opt='enable-tls1_3' \
- --with-pcre=../pcre-8.41 \
+ --with-pcre=../pcre-8.42 \
  --with-zlib=../zlib-1.2.11 \
  --add-module=../ngx_brotli
