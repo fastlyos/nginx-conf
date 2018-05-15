@@ -1,4 +1,4 @@
-./configure \
+COMPILER=clang-6.0 CXX=clang++-6.0 CC=clang-6.0 ./configure \
  --prefix=/etc/nginx \
  --sbin-path=/usr/sbin/nginx \
  --modules-path=/usr/lib/nginx/modules \

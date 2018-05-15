@@ -12,8 +12,8 @@ apt install git build-essential gcc g++ make
 ## downloads
 ### [nginx](https://nginx.org/)
 ```
-wget https://nginx.org/download/nginx-1.13.12.tar.gz
-tar -xf nginx-1.13.12.tar.gz
+wget https://nginx.org/download/nginx-1.14.0.tar.gz
+tar -xf nginx-1.14.0.tar.gz
 ``` 
 ### [OpenSSL](https://www.openssl.org/)
 ```
