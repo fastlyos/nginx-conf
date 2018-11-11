@@ -13,8 +13,8 @@
 ## downloads
 ### [nginx](https://nginx.org/)
 ```
-wget http://nginx.org/download/nginx-1.15.5.tar.gz
-tar xf nginx-1.15.5.tar.gz
+wget http://nginx.org/download/nginx-1.15.6.tar.gz
+tar xf nginx-1.15.6.tar.gz
 ``` 
 ### [OpenSSL](https://www.openssl.org/)
 ```
