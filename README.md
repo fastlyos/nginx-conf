@@ -13,19 +13,19 @@
 ## downloads
 ### [nginx](https://nginx.org/)
 ```
-wget http://nginx.org/download/nginx-1.15.8.tar.gz
-tar xf nginx-1.15.8.tar.gz
+wget https://nginx.org/download/nginx-1.15.9.tar.gz
+tar xf nginx-1.15.9.tar.gz
 ``` 
 ### [OpenSSL](https://www.openssl.org/)
 ```
-wget https://github.com/openssl/openssl/archive/OpenSSL_1_1_1a.tar.gz
-tar xf OpenSSL_1_1_1a.tar.gz
-mv openssl-OpenSSL_1_1_1a/ openssl/
+wget https://github.com/openssl/openssl/archive/OpenSSL_1_1_1b.tar.gz
+tar xf OpenSSL_1_1_1b.tar.gz
+mv openssl-OpenSSL_1_1_1b/ openssl/
 ```
 ### [PCRE](https://www.pcre.org/)
 ```
-wget https://ftp.pcre.org/pub/pcre/pcre-8.42.tar.gz
-tar xf pcre-8.42.tar.gz
+wget https://ftp.pcre.org/pub/pcre/pcre-8.43.tar.gz
+tar xf pcre-8.43.tar.gz
 ```
 ### [zlib](https://www.zlib.net/)
 ```
