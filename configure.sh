@@ -1,4 +1,4 @@
-COMPILER=clang-7 CXX=clang++-7 CC=clang-7 ./configure \
+COMPILER=clang-8 CXX=clang++-8 CC=clang-8 ./configure \
  --prefix=/etc/nginx \
  --sbin-path=/usr/sbin/nginx \
  --modules-path=/usr/lib/nginx/modules \
@@ -40,6 +40,6 @@ COMPILER=clang-7 CXX=clang++-7 CC=clang-7 ./configure \
  --with-stream_ssl_preread_module \
  --with-openssl=../openssl \
  --with-openssl-opt='enable-tls1_3' \
- --with-pcre=../pcre-8.42 \
+ --with-pcre=../pcre-8.43 \
  --with-zlib=../zlib-1.2.11 \
  --add-module=../ngx_brotli
