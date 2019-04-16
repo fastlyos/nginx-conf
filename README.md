@@ -5,7 +5,7 @@
 * brotli (via ngx_brotli)
 
 ## prepare
-* clang-7
+* clang-8
 * gcc-8
 * g++-8
 * make
@@ -13,8 +13,8 @@
 ## downloads
 ### [nginx](https://nginx.org/)
 ```
-wget https://nginx.org/download/nginx-1.15.9.tar.gz
-tar xf nginx-1.15.9.tar.gz
+wget https://nginx.org/download/nginx-1.15.11.tar.gz
+tar xf nginx-1.15.11.tar.gz
 ``` 
 ### [OpenSSL](https://www.openssl.org/)
 ```
