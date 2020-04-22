@@ -5,7 +5,7 @@
 * brotli (via ngx_brotli)
 
 ## prepare
-* clang-8
+* clang-10
 * gcc-8
 * g++-8
 * make
@@ -13,19 +13,19 @@
 ## downloads
 ### [nginx](https://nginx.org/)
 ```
-wget https://nginx.org/download/nginx-1.17.1.tar.gz
-tar xf nginx-1.17.1.tar.gz
+wget https://nginx.org/download/nginx-1.18.0.tar.gz
+tar xf nginx-1.18.0.tar.gz
 ``` 
 ### [OpenSSL](https://www.openssl.org/)
 ```
-wget https://github.com/openssl/openssl/archive/OpenSSL_1_1_1c.tar.gz
-tar xf OpenSSL_1_1_1c.tar.gz
-mv openssl-OpenSSL_1_1_1c/ openssl/
+wget https://github.com/openssl/openssl/archive/OpenSSL_1_1_1g.tar.gz
+tar xf OpenSSL_1_1_1g.tar.gz
+mv openssl-OpenSSL_1_1_1g/ openssl/
 ```
 ### [PCRE](https://www.pcre.org/)
 ```
-wget https://ftp.pcre.org/pub/pcre/pcre-8.43.tar.gz
-tar xf pcre-8.43.tar.gz
+wget https://ftp.pcre.org/pub/pcre/pcre-8.44.tar.gz
+tar xf pcre-8.44.tar.gz
 ```
 ### [zlib](https://www.zlib.net/)
 ```
