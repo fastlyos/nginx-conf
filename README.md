@@ -13,14 +13,14 @@
 ## downloads
 ### [nginx](https://nginx.org/)
 ```
-wget https://nginx.org/download/nginx-1.18.0.tar.gz
-tar xf nginx-1.18.0.tar.gz
+wget https://nginx.org/download/nginx-1.19.0.tar.gz
+tar xf nginx-1.19.0.tar.gz
 ``` 
 ### [OpenSSL](https://www.openssl.org/)
 ```
-wget https://github.com/openssl/openssl/archive/OpenSSL_1_1_1g.tar.gz
-tar xf OpenSSL_1_1_1g.tar.gz
-mv openssl-OpenSSL_1_1_1g/ openssl/
+wget https://www.openssl.org/source/openssl-3.0.0-alpha4.tar.gz
+tar xf openssl-3.0.0-alpha4.tar.gz
+mv openssl-3.0.0-alpha4/ openssl/
 ```
 ### [PCRE](https://www.pcre.org/)
 ```
